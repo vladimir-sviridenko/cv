@@ -15,7 +15,7 @@ I study something linked to front-end every day.
 ### Experience
 You can check [my latest code](https://bitbucket.org/Vladimir_Sviridenko/sviridenko-furniture-website), where I'm
 developing a shop website for my family business.  
-Also I've tried bootstrap, scss and webpack. It's on my [Bitbucket](https://bitbucket.org/Vladimir_Sviridenko/)
+Also I've tried bootstrap, scss and webpack. That's all on my [Bitbucket](https://bitbucket.org/Vladimir_Sviridenko/)
 
 ### Education
 I was learning in Mogilev BRU university for 3 years as Software Engineer.  
