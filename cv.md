@@ -18,5 +18,5 @@ developing a shop website for my family business.
 Also I've tried bootstrap, scss and webpack. That's all on my [Bitbucket](https://bitbucket.org/Vladimir_Sviridenko/)
 
 ### Education
-I was learning in Mogilev Belarusian-Russian University for 3 years as Software Engineer.  
+I was learning at Mogilev Belarusian-Russian University for 3 years as Software Engineer.  
 For now I'm learning independently. My **English level: A2.** 
