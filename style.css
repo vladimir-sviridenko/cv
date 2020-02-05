@@ -31,12 +31,16 @@ a:hover {
 }
 
 body {
-  margin: 0.6rem auto;
+  margin: 0 auto;
   width: 600px;
 
   font-size: 1rem;
   line-height: 1.4rem;
   font-family: "Segoe UI", "Helvetica", "Arial", sans-serif;
+}
+
+.container {
+  padding: 0.6rem;
 }
 
 header {
