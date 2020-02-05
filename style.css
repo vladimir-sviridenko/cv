@@ -1,0 +1,96 @@
+h1 {
+  margin: 0;
+
+  font-size: 1.5em;
+}
+
+h2 {
+  margin: 0;
+
+  font-weight: 700;
+  font-size: 1.1em;
+  line-height: 1.5em;
+}
+
+ul {
+  margin: 0.1rem;
+  padding-left: 1.4rem;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #0366d6;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  margin: 0.6rem auto;
+  width: 600px;
+
+  font-size: 1rem;
+  line-height: 1.4rem;
+  font-family: "Segoe UI", "Helvetica", "Arial", sans-serif;
+}
+
+header {
+  display: flex;
+}
+
+header > section {
+  display: flex;
+  flex-flow: column;
+  flex-grow: 1;
+  margin-left: 0.7rem;
+}
+
+.photo {
+  border: 1px solid #dddddd;
+}
+
+.name {
+  padding: 0.5rem 0 0.5rem 0;
+
+  text-align: center;
+
+  border: 1px solid #dddddd;
+}
+
+.short-info {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  flex-grow: 1;
+  margin-top: 0.7rem;
+  padding: 0.8rem;
+
+  border: 1px solid #dddddd;
+}
+
+
+main {
+  margin-top: 0.7rem;
+  padding-bottom: 0.5rem;
+
+  border: 1px solid #dddddd;
+}
+
+main > section {
+  margin: 0.6rem 1rem 0.6rem 1rem;
+}
+
+footer {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  margin-top: 0.7rem;
+  padding: 0.2rem 0.7rem 0.2rem 0.7rem;
+
+  border: 1px solid #dddddd;
+}
