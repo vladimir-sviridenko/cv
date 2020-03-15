@@ -1,1 +1,1 @@
-https://vladimir-sviridenko.github.io/cv/cv
+https://vladimir-sviridenko.github.io/cv/
